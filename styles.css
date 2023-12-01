@@ -28,3 +28,30 @@ header{
     max-width: 1440px;
     align-items: center;
 }
+
+.example{
+    height: 100vh;
+    background-color: rebeccapurple;
+}
+.example2{
+    height: 100vh;
+    background-color: red;
+}
+.notice{
+    padding: 1rem 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 60px;
+    height: auto;
+    width: 100vw;
+    background-color: wheat;
+    font-size: 14px;
+    
+    font-weight: lighter;
+}
+
+.notice span{
+    width: 60%;
+    text-align: center;
+}
